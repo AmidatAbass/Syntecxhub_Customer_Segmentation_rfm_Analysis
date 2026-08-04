@@ -56,7 +56,7 @@ Performed entirely in Excel:
 **Churn Risk (423 customers)** — Average spend (£652) is close to Regular customers — this isn't a low-value segment, they simply stopped ordering roughly 9 months ago on average. *Recommendation:* a targeted win-back offer, justified by their prior spend history.
 
 ## Dashboard
-![RFM Segment Comparison and Customer Distribution](screenshots/rfm_dashboard.png)
+![RFM Segment Comparison and Customer Distribution](rfm_dashboard.png)
 
 
 
