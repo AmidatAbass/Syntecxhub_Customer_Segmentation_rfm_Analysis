@@ -57,7 +57,7 @@ Performed entirely in Excel:
 
 ## Dashboard
 ![RFM Segment Comparison and Customer Distribution](rfm_dashboard.png)
-![RFM Segment Comparison and Customer Distribution](rfm_dashboard 2.png).
+![RFM Segment Comparison and Customer Distribution](rfm_dashboard2.png).
 
 ## Tools Used
 - Microsoft Excel — PivotTables, formulas (AVERAGEIF, COUNTIF, nested IF, QUARTILE), charts
